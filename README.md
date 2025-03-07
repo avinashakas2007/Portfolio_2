@@ -23,7 +23,7 @@ This is a simple **personal portfolio webpage** designed to introduce myself, sh
 ## 🚀 How to Use
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/portfolio.git
+   https://github.com/avinashakas2007/Portfolio_2.git
    ```
 2. Navigate to the project folder:
    ```sh
